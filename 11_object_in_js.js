@@ -3,6 +3,7 @@
 // Object declaration using literals
 // When we declare object using literals then object is not created as singleton
 
+// object literal
 const user_obj = {
     name: "Captain-dd",
     technology: "python selenium",
